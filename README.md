@@ -9,7 +9,7 @@ I'm currently focused on:
 
 #### Featured Projects
 - 🚢 [Titanic Survival Analysis](https://github.com/urvashikathuria01-rgb/titanic-survival-analysis) — exploratory data analysis on survival patterns
-- 📄 [PDF RAG Chatbot](https://github.com/urvashikathuria01-rgb/pdf-rag-chatbot) — question-answering system built on a novella using LangChain + FAISS
+- 📄 [PDF RAG Chatbot](https://github.com/urvashikathuria01-rgb/pdfwhitenights-rag-chatbot) — question-answering system built on a novella using LangChain + FAISS
 - 📩 [Spam Message Classifier](https://github.com/urvashikathuria01-rgb/spam-message-classifier) — Naive Bayes SMS spam detector, 99% accuracy
 
 #### Connect
